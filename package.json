@@ -1,0 +1,16 @@
+{
+  "name": "@qualitywatcher/pactumjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/sample.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "pactum": "^3.1.13"
+  }
+}
